@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#090807"/>
+  <rect x="8.5" y="8.5" width="47" height="47" fill="none" stroke="#C7A15C" stroke-width="1.5"/>
+  <rect x="13" y="13" width="38" height="38" fill="none" stroke="#C7A15C" stroke-opacity=".25"/>
+    <text x="32" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="1" fill="#C7A15C">ZT</text>
+</svg>
